@@ -1,0 +1,3 @@
+com\kubernate\docker\model\Employee.class
+com\kubernate\docker\controller\Controller.class
+com\kubernate\docker\TestDockerApplication.class
